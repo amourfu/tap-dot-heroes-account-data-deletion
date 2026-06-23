@@ -1,6 +1,6 @@
 {
   "android": {
-    "minimum_version": "1.0.10",
+    "minimum_version": "1.0.9",
     "recommended_version": "1.0.10"
   },
   "ios": {
